@@ -7,6 +7,10 @@ const workoutSchema = new Schema({
     type: Date,
     default: Date.now,
   },
+  totalDuration: {
+    type: Number,
+    default: 0
+  },
   exercises: [
     {
       type: {
@@ -39,7 +43,7 @@ const workoutSchema = new Schema({
   ],
 });
 
-workoutSchema.methods.calcDuration = () => {
+workoutSchema.methods.calcDuration = function() {
   let duration = 0;
   for (var i = 0; i < this.exercises.length; i++) {
     duration += this.exercises[i].duration;
