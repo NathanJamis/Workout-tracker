@@ -7,12 +7,19 @@
 
 A web-based application that will track workout information submitted by the user.
 
+## Link to deployed application:
+
+https://evening-depths-28456.herokuapp.com/?id=608dc38e1522340016bde7b8
+
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Testing](#testing)
+* [Technologies](#technologies)
+* [License](#license)
+* [Screenshots](#screenshots)
 * [Questions](#questions)
 
 ## Installation
@@ -39,9 +46,24 @@ For testing, run the following command:
 No current testing available for this application
 ```
 
+## Technologies
+
+* HTML
+* CSS
+* Javascript
+* Node.js
+* Mongoose.js
+* Express.js
+* MongoDB
+* Heroku - for deployment
+
 ## License
 
 MIT 
+
+## Screenshots
+
+
 
 ## Questions
 
