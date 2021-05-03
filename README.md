@@ -63,8 +63,8 @@ MIT
 
 ## Screenshots
 
-![Screenshot](link)
-![Screenshot](link)
+![image](https://github.com/NathanJamis/Workout-tracker/blob/main/assets/WorkoutHome.png)
+![image](https://github.com/NathanJamis/Workout-tracker/blob/main/assets/WorkoutDashboard.png)
 
 ## Questions
 
